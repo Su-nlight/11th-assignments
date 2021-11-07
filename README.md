@@ -1,5 +1,5 @@
 # 11th-assignments
-A repository for everyone who wants to see my school assignments (which i do think should be shared) of class 11.
+<pre>A repository for everyone who wants to see my school assignments (which i do think should be shared) of class 11.
 <br/><br/>
 CONTENT :-
 <br/><br/>
@@ -14,3 +14,4 @@ S. NO.  | QUESTION <br/>
    8    | Write a program to display sum of harmonic series till n'th term.<br/>
    9    | Write a program to display sum of alternative positive and negative harmonic series till n'th term.<br/>
    10   | Write a program to display signum function of provided number.<br/>
+<pre/>
