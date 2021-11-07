@@ -1,6 +1,3 @@
-''' Q). Write a program to display area of square and rectangle if user's 
-choice is 1  otherwise if choice is 2 display parameter of both.'''
-
 s=int(input("Enter Side of Square:"))
 l=int(input("Enter Length of Rectangle:"))
 b=int(input("Enter Breadth of Rectangle:"))
