@@ -14,6 +14,5 @@ S. NO.  | QUESTION <br/>
    08   | Write a program to display sum of harmonic series till n'th term.<br/>
    09   | Write a program to display sum of alternative positive and negative harmonic series till n'th term.<br/>
    10   | Write a program to display signum function of provided number.<br/>
-   11   | Write a program to find the frequency of the element of the list. <br/>
-   12   | Write a program to find the duplicate values in the list.<br/>
+   11   | Write a function to find the frequency of the element of the list and find duplicate values in the list, by creating two seperate functions.<br/>
 <pre/>
