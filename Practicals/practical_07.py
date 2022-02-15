@@ -14,11 +14,11 @@ def mixedFraction(nume, deno):
 try:
     nume=int(input("Enter the numerator: "))
     deno=input("Enter the denominator: ")
-    if deno=="" or deno.isalpha():
+    if deno=="" or deno.isalpha() or deno=="0":
         print("value of the denominator assigned is invalid so assuming it as 1")
         deno=1
         x=mixedFraction(nume,deno)
-    elif nume>int(deno):
+    elif nume>int(deno) and int(deno)>0:
         x=mixedFraction(nume,int(deno))
     print(x)
 except ValueError:
