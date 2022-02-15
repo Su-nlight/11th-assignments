@@ -42,6 +42,9 @@ class basic_maths:
               "\t4 --> Quotient of 2 numbers (x/y)\n")
         choice=input("\t\t: ")
         func = {"1": self.sumof2, "2": self.differenceof2, "3": self.multiplyof2, "4": self.divideof2}
-        print(func[choice]())
+        if choice in func.keys():
+            print(func[choice]())
+        else:
+            print("Such function doesn't exist") 
 
 basic_maths()
