@@ -1,4 +1,3 @@
-#Write a program using a user defined  function that displays sum of first n natural numbers, where n is passed as an argument.
 def sum0nnum(n):
     summ=0
     for x in range(1,n+1):
