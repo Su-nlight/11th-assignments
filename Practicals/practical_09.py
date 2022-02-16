@@ -28,7 +28,7 @@ class basic_maths:
     def divideof2(self):
         x, y = self.inputvari()
         if y==0:
-            res="Can not divide by zero"
+            return res="Can not divide by zero"
         else:
             return x/y
 
