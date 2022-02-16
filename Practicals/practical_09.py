@@ -12,7 +12,7 @@ class basic_maths:
             if self.attempt<3:
                 print("Value Error has occured, Retry entering values. {} attempts left".format(3-self.attempt))
                 self.attempt+=1
-                self.inputvari()
+                return self.inputvari()
             elif self.attempt==3:
                 print("No attemts left, rerun the program")
                 sys.exit(0)
