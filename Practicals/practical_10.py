@@ -10,5 +10,5 @@ def sumofibo(n):
 
     return sm
 
-n=int(input("Enter nth term of Fibomacci series: "))
+n=int(input("Enter nth term of Fibonacci series: "))
 print("Sum of Fibonacci numbers is : ", sumofibo(n))
