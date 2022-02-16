@@ -24,8 +24,8 @@ class students:
             newname = input("Enter name of student {}: ".format(i + 1))
             if isempty(newname) == True:
                 print("The name entered is blank so it is not acceptable")
-            if self.does_exists(name1=newname) == True:
-                print("User already does exist in the tuple")
+            elif self.does_exists(name1=newname) == True:
+                print("Student already does exist in the tuple")
             else:
                 self.name.append(newname)
                 print(newname, "is added to the tuple")
