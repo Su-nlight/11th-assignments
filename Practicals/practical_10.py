@@ -1,4 +1,4 @@
-def calculateSum(n):
+def sumofibo(n):
     if (n <= 0):
         return 0
     fibo = [0] * (n + 1)
@@ -11,4 +11,4 @@ def calculateSum(n):
     return sm
 
 n=int(input("Enter nth term of Fibomacci series: "))
-print("Sum of Fibonacci numbers is : ", calculateSum(n))
+print("Sum of Fibonacci numbers is : ", sumofibo(n))
