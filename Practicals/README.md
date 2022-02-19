@@ -8,7 +8,7 @@ S. NO.  | QUESTION <br/>
    02   | Write a program to find the duplicate values in the list.<br/>
    03   | Write a program to compare two list are equal or not.<br/>
    04   | Write a program to find maximum and minimum value from a number list.<br/>
-   05   | <br/>
+   05   | Write a program to check if provided two lists are equal or not.<br/>
    06   | Write a program using a user defined function that displays sum of
         | first n natural numbers, where n is passed as an argument.<br/>
    07   |<br/>
