@@ -16,7 +16,8 @@ S. NO.  | QUESTION <br/>
         |fraction formed is not a proper fraction. The default value of
         |denominator is 1. The function displays a mixed fraction only if the
         |fraction formed by the parameters does not evaluate to a whole number.<br/>
-   08   |<br/>
+   08   |Write a program and create a basic_maths module with 4 functions, i.e.
+        |multiplications, division, subtraction and addition.<br/>
    09   |<br/>
    10   |<br/>
    11   |<br/>
