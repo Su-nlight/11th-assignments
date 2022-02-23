@@ -1,4 +1,3 @@
-#Write a Python program to create a dictionary of frequency of letters from a string.
 data=input("Enter String to create frequency dictionary of: ")
 freqdic=dict()
 new=dict()
