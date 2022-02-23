@@ -20,7 +20,21 @@ S. NO.  | QUESTION <br/>
         |and display the factorial of a number num passed as an argument.<br/>
    09   |Write a program and create a basic_maths module with 4 functions, i.e.
         |multiplications, division, subtraction and addition.<br/>
-   10   |<br/>
-   11   |<br/>
-   12   |<br/>
+   10   |Write a program to input nth term of fibonacci series from user and
+        |display its sum till that term.<br/>
+   11   |Write a program to read email IDs of n number of students and store
+        |them in a tuple. Create two new tuples, one to store only the usernames
+        |from the email IDs and second to store domain names from the email IDs.
+        |Print all three tuples at the end of the program.<br/>
+   12   |Write a program to input names of n students and store them in a tuple.
+        |Also, input a name from the user and find if this student is present
+        |in the tuple or not.<br/>
+   13   |<br/>
+   14   |<br/>
+   15   |<br/>
+   16   |<br/>
+   17   |<br/>
+   18   |<br/>
+   19   |<br/>
+   20   |<br/>
 <pre/>
