@@ -29,17 +29,19 @@ S. NO.  | QUESTION <br/>
    12   |Write a program to input names of n students and store them in a tuple.
         |Also, input a name from the user and find if this student is present
         |in the tuple or not.<br/>
-   13   |<br/>
-   14   |<br/>
-   15   |<br/>
+   13   |write a program to input n numbers from the user, store these numbers
+        |in a tuple and print the maximum, minimum and mean of all elements from
+        |this tuple.<br/>
+   14   |Write a program to input two tuples and swap their values.<br/>
+   15   |Write a program to perform a linear search on a tuple of numbers.<br/>
    16   |Write a program to find highest and second highest value from a
         |dictionary.<br/>
    17   |Write a Python program to create a dictionary of frequency of letters
         |from a string.<br/>
    18   |Write a program to create a dictionary of name employees as keys and
         |their salary as values.<br/>
-   19   |Write a program to store students' information like admission number,
+   19   |Write a program to remove a dictionary from a lsit of dictionaries.<br/>
+   20   |Write a program to store students' information like admission number,
         |roll number, name and marks in a dictionary and display information
         |on the basis of admission number.<br/>
-   20   |<br/>
 <pre/>
