@@ -9,7 +9,7 @@ for x in range(n):
     value["section"]=input("Enter Section of student no.{}: ".format(x + 1))
     value["percentage"]=float(input("Enter percentage of student no.{}: ".format(x + 1)))
     data[admn]=value
-    value.clear()
+    value=dict()
 
 for i in data.keys():
     print("\nAdmission number: ",i)
